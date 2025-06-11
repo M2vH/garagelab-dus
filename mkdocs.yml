@@ -24,6 +24,7 @@ theme:
 #  favicon: images/favicon.png # create a favicon from logo
 markdown_extensions:
   - admonition
+  - pymdownx.keys
   - codehilite:
       guess_lang: false
   - footnotes
