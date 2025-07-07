@@ -2,6 +2,7 @@ site_name: SO-Arm101
 site_url: https://github.com/M2vH/garagelab-dus
 site_description: "Das ProtoLab baut einen Roboter-Arm 'SO-Arm101'."
 site_author: M2vH
+repo_url: https://github.com/M2vH/garagelab-dus
 theme:
   name: material
   features:
