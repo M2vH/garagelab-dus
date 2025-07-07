@@ -37,6 +37,9 @@ markdown_extensions:
 nav:
   - Home: 
     - index.md
+  - Protokolle:
+    - Protokolle/Backlog.md
+    - Protokolle/ReadMe.md
   - Tipps und Tricks:
     - Tipps-Und-Tricks/ReadMe.md
     - Tipps-Und-Tricks/Tipps-und-Tricks.md
