@@ -14,15 +14,15 @@
 
 Angegeben ist der Name im Forum
 
-- [ ] [BzB](https://forum.garage-lab.de/u/BzB/summary)
-- [x] [Felix](https://forum.garage-lab.de/u/Felix/summary)
-- [x] [rpw](https://forum.garage-lab.de/u/rpw/summary)
-- [x] [ovau](https://forum.garage-lab.de/u/ovau/summary)
-- [ ] [DanielH](https://forum.garage-lab.de/u/DanielH/summary)
-- [x] [_JP](https://forum.garage-lab.de/u/_JP/summary)
-- [ ] [jenskursawe](https://forum.garage-lab.de/u/jenskursawe/summary)
-- [x] [M2vH](https://forum.garage-lab.de/u/M2vH/summary)
-- [ ] [Steindrache](https://forum.garage-lab.de/u/Steindrache/summary)
+- [❌] [BzB](https://forum.garage-lab.de/u/BzB/summary)
+- [✅] [Felix](https://forum.garage-lab.de/u/Felix/summary)
+- [✅] [rpw](https://forum.garage-lab.de/u/rpw/summary)
+- [✅] [ovau](https://forum.garage-lab.de/u/ovau/summary)
+- [❌] [DanielH](https://forum.garage-lab.de/u/DanielH/summary)
+- [✅] [_JP](https://forum.garage-lab.de/u/_JP/summary)
+- [❌] [jenskursawe](https://forum.garage-lab.de/u/jenskursawe/summary)
+- [✅] [M2vH](https://forum.garage-lab.de/u/M2vH/summary)
+- [❌] [Steindrache](https://forum.garage-lab.de/u/Steindrache/summary)
 
 <!-- 
 - [ ] [$name](https://forum.garage-lab.de/u/{$name}/summary) 

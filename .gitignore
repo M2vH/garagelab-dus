@@ -3,6 +3,12 @@
 
 **/*.code-workspace
 
+## GarageLab settings
+##  mkdocs-material
+## mit `mkdocs gh-deploy` wird in einen eigenen branch `gh-pages` gepusht
+## somit können wir den `site` ordner ausklammern
+site/
+
 
 ## Content below is the result of `dotnet new gitignore`
 ## Ignore Visual Studio temporary files, build results, and
