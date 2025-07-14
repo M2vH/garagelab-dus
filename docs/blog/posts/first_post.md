@@ -20,7 +20,7 @@ Add an **INFO** box that is expanded.
     ---
     ```
 
-Use right corner handle to expand this **INFO**
+Use right corner handle :material-code-greater-than: to expand this **INFO**
 
 ??? info "How the `yaml` look like..."
 
@@ -48,7 +48,7 @@ And use a [link to example](https://example.com)
 
 ---
 
-![talentix 3d printer](../../images/20250621_110402Klein.jpg){ align=left }
+![talentix 3d printer](../images/20250621_110402Klein.jpg){ align=left }
 And use an image with text that is floating around an image.
 
 After a line break...
