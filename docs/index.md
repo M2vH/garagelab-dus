@@ -2,6 +2,30 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+Add an **INFO** box that is expanded.
+
+???+ info "How the post yaml header looks like..."
+
+    ```text
+    ---
+    title: "This is a demo post"
+    date: 2025-07-14
+    ---
+    ```
+
+Use right upper corner handle to expand the **INFO**
+
+??? info "How the `yaml` look like..."
+
+    ```text
+    ---
+    title: "This is a demo post"
+    date: 2025-07-14
+    ---
+    ```
+
+
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
