@@ -1,5 +1,5 @@
 {
-    "name": "MkDocs Material Dev Container",
+    "name": "M2vH-MkDocsMaterial-DevContainer",
     "build": {
         "dockerfile": "Dockerfile"
     },
